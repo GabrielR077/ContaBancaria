@@ -31,7 +31,7 @@ public class contaTerminal {
 		System.out.println("Seu saldo disponível para saque é: " + saldo);
 		
 		//	Finalizando o programa
-		System.out.println("Pressione enter para sair!");
+		System.out.println("Programa Finalizado!");
 		
 		scan.close();
 		
